@@ -33,6 +33,12 @@ body {
 
 footer {
     background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+    font-size: 18px;
+    color: white;
 }
 
 /* section 1 */
@@ -207,3 +213,5 @@ img {
 button#call-to-action {
     border: 2px solid white;
 }
+
+/* section 4 */
